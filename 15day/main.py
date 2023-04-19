@@ -23,5 +23,4 @@ for index, question in enumerate(data):
 print(score, "/", len(data))
 
 print("Git uchun birinchi praktika")
-print("Git ucdddddddddddddddddddd")
-print("Git uchun birinchi praktika")
+print("Git uchun ikkinchi praktika")
